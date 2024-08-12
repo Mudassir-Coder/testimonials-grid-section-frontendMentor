@@ -1,0 +1,37 @@
+/* Importing Fonts */
+
+
+/* Unsetting The Default Styles */
+
+*,
+::before,
+::after{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Variables */
+
+:root{
+  --color-black: black;
+}
+
+/* General Styles */
+
+html{
+  font-size: 62.5%;
+}
+
+img{
+  width: 5%;
+  border-radius: 50%;
+}
+
+h2{
+  font-size: 2.5rem;
+}
+
+p{
+  line-height: 1.5;
+}
