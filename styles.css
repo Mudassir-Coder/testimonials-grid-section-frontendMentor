@@ -141,3 +141,19 @@ figcaption > span{
 
   
 }
+
+
+/* attribution */
+
+.attribution{
+  color: var(--very-dark-blackish-blue);
+  font-size: 1.5rem;
+  margin: 1rem;
+  text-align: center;
+}
+
+.attribution a{
+  color: var(--moderate-violet);
+  font-size: 1.9rem;
+  text-decoration: none;
+}
